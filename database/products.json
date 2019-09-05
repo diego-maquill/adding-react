@@ -1,0 +1,153 @@
+{
+    "_id": "d0975326-7b43-479e-a109-cb818abec62d",
+    "name": "Appricots",
+    "description": "Appricots",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/appricot.jpg"],
+    "stock": "5"
+} {
+    "_id": "ebed34eb-7533-49f5-91cb-37c12f20d4b1",
+    "name": "Asparagus",
+    "description": "Asparagus",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/asparagus.jpg"],
+    "stock": "5"
+} {
+    "_id": "fb79562d-e470-4445-990b-06aa875d3e97",
+    "name": "Assorted_apples",
+    "description": "Assorted_apples",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/assorted_apples.jpg"],
+    "stock": "5"
+} {
+    "_id": "61c79187-76f6-4747-a5cf-d7e26dcea535",
+    "name": "Beats",
+    "description": "Beats",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/beats.jpg"],
+    "stock": "5"
+} {
+    "_id": "b72f5d8e-e586-47cd-aba7-202814ca6609",
+    "name": "Black_Berrie",
+    "description": "Black_Berrie",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/black_berries.jpg"],
+    "stock": "5"
+} {
+    "_id": "5ffd3e0b-2a31-4d97-aced-e242b5061b24",
+    "name": "Campari_Tomatos",
+    "description": "Campari_Tomatos",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/campari_tomatos.jpg"],
+    "stock": "5"
+} {
+    "_id": "b7399b85-6860-4b86-b169-3dc068d444ae",
+    "name": "Cilantro",
+    "description": "Cilantro",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/Cilantro.jpg"],
+    "stock": "5"
+} {
+    "_id": "c8d5c1c3-15e8-4112-a043-a0d33a8de28d",
+    "name": "Cucamber",
+    "description": "Cucamber",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/Cucambers.jpg"],
+    "stock": "5"
+} {
+    "_id": "74835a8d-b17b-4653-b1b1-fc58b4df19b9",
+    "name": "Dark_Grapes",
+    "description": "Dark_Grapes",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/dark_grapes.jpg"],
+    "stock": "5"
+} {
+    "_id": "92de4c84-2f09-43c3-88e2-c0a000b93037",
+    "name": "Garlic",
+    "description": "Garlic",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/garlic.jpg"],
+    "stock": "5"
+} {
+    "_id": "df52c530-a741-4eb7-9558-d2faaacec380",
+    "name": "Green_Grapes",
+    "description": "Green_Grapes",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/green_grapes.jpg"],
+    "stock": "5"
+} {
+    "_id": "334d5358-3cdf-473b-b894-5115b0df7c6f",
+    "name": "Honeydew",
+    "description": "Honeydew",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/Honeydew.jpg"],
+    "stock": "5"
+} {
+    "_id": "f3b3a260-f7e4-45c8-86b2-d6f48a1024d1",
+    "name": "Kiwi",
+    "description": "Kiwi",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/Kiwi.jpg"],
+    "stock": "5"
+} {
+    "_id": "5d3611cb-2140-4984-8535-0e40920fbd68",
+    "name": "Limes",
+    "description": "Limes",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/limes.jpg"],
+    "stock": "5"
+} {
+    "_id": "f82c6b8a-2c6a-45e2-887f-ad5f34631439",
+    "name": "Mango",
+    "description": "Mango",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/Mangos.jpg"],
+    "stock": "5"
+} {
+    "_id": "7b862543-876f-4bac-b56a-630f6e239079",
+    "name": "Orange_bag",
+    "description": "Orange_bag",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/orange_bag.jpg"],
+    "stock": "5"
+} {
+    "_id": "b971e50a-8a61-4c0c-b5ab-94289dabcf92",
+    "name": "Organic_Cerries",
+    "description": "Organic_Cerries",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/organic_cherries.jpg"],
+    "stock": "5"
+} {
+    "_id": "4a8913f9-29a1-40e0-81bc-c37b564e0b5d",
+    "name": "Sweet_Cherries",
+    "description": "Sweet_Cherries",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/Sweet_cherries.jpg"],
+    "stock": "5"
+} {
+    "_id": "cc1f83c1-70cd-4d7e-b204-ec79011ffa8d",
+    "name": "Watermelon",
+    "description": "Watermelon",
+    "price": 2,
+    "price_per": "pound",
+    "images": ["/public/images/Watermelon.jpg"],
+    "stock": "5"
+}
