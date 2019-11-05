@@ -38,7 +38,7 @@
     "handlebars-intl": "^1.1.2",
     "handlebars-paginate": "^0.1.0",
     "mongodb": "^2.2.26",
-    "mongoose": "^5.6.9",
+    "mongoose": "^5.7.5",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
     "path": "^0.12.7",
