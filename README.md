@@ -1,7 +1,7 @@
 # Fast-and-Fresh-2
 
 #
-For my project-3 I continue working on my eCommerce application for farmers market. The idea is to create a shopping cart for people who want to shop for farmer's market in busy cities in the United States. Most of these farmers market are rotating farmers market and they do not have access to a premature website application.
+For my project-3 I continue working on my eCommerce application for farmers market. The idea was to create a shopping cart for people who want to shop at farmer's market major cities throughout the United States. Most of these farmers market are rotating farmers market and they do not have access to sell through a website application.
 ##
 This the updated version of my Project-2. I was required to add react components to an already made project using handlebars. My attempted failed, but I manege to add a few icons.png as react components so it will comply with the project requirements.
 
