@@ -30,7 +30,7 @@
     "connect-mongo": "^3.0.0",
     "cookie-parser": "^1.4.3",
     "cookie-session": "^2.0.0-beta.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-handlebars": "^3.0.0",
     "express-passport": "^0.1.0",
     "express-passport-logout": "^0.1.0",
